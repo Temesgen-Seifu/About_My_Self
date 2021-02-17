@@ -1,0 +1,41 @@
+body{background-color: aqua;
+padding-top: 2mm;
+padding-bottom: 2mm;
+padding-right: 2mm;
+padding-left: 2mm;
+margin:3cm;}
+#head1{
+    font-size: 30px;
+    color: beige;
+    text-align: center;
+    margin-top: 30px;
+
+    }
+
+}
+#head2{
+
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+}
+#head3{
+    color: blue;
+    text-align: center;
+    margin-top: 30px;
+}
+#part1{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+#part2{
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+#part3{
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
